@@ -1,4 +1,1 @@
-This is an ABRT plugin for Foreman's smart proxy. Please see the README of the
-Foreman ABRT plugin for more information:
-
-https://github.com/abrt/foreman_abrt/blob/master/README.md
+The repository has been moved to https://github.com/theforeman/smart_proxy_abrt
